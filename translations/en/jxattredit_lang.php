@@ -8,6 +8,7 @@ $aLang = array(
         'ARTICLE_ATTRIBS_VALUE'                 => 'Value',
         'ARTICLE_ATTRIBS_PROPOSAL'              => 'Proposal',
         'ARTICLE_ATTRIBS_DISPLAYEDINBASKET'     => 'Attribute will be displayed in basket',
+        'FASTEDIT_ATTRIBS_DISPLAY'              => 'Attribut can be edited fast in article list',
 
         'SHOP_MODULE_GROUP_JXATTREDIT_DISPLAY'         => 'Display',
         'SHOP_MODULE_sJxAttrEditNumberOfColumns'       => 'Number of columns',

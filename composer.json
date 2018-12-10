@@ -1,0 +1,29 @@
+{
+  "name": "job963/attredit",
+  "description": "Attribute Editor for Products.",
+  "type": "oxideshop-module",
+  "keywords": [
+    "oxid",
+    "modules",
+    "admin",
+    "attributes"
+  ],
+  "homepage": "https://github.com/job963/jxAttrEdit",
+  "license": [
+    "GNU"
+  ],
+  "version": "0.6.0",
+  "extra": {
+    "oxideshop": {
+      "blacklist-filter": [
+        "docs/**/*.*"
+      ],
+      "target-directory": "jx/AttrEdit"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Job963\\Oxid\\AttrEdit\\": "../../../source/modules/jx/AttrEdit/"
+    }
+  }
+}
